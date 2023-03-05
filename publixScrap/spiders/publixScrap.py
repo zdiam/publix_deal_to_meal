@@ -36,22 +36,19 @@ class publixSpider(scrapy.Spider):
 
             yield items
 
-         
-        fofo_page = response.css('.footerLink::attr(href)').get()
 
-        if fofo_page is not None: 
-            yield response.follow(fofo_page)  
-        
             
         bogo_page = response.css('#CustomCategories a:nth-child(1)::attr(href)').get()
 
         if bogo_page is not None: 
             yield response.follow(bogo_page)  
 
-        postbogo_page = response.css('.footerLink::attr(href)').get()
 
-        if postbogo_page is not None: 
-            yield response.follow(postbogo_page)  
+##non functional
+        # postbogo_page = response.css('.footerLink::attr(href)').get()
+
+        # if postbogo_page is not None: 
+        #     yield response.follow(postbogo_page)  
 
         # next_page = response.css('.exclude-role+ #CategoryFooterBar .action-tracking-nav::attr(href)').get()
 
