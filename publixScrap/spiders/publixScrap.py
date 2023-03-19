@@ -7,10 +7,34 @@ class publixSpider(scrapy.Spider):
     name = 'publix'
 
     start_urls = [
-        'https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByPage/Index/?Breadcrumb=Weekly+Ad&StoreID=2501005&PromotionCode=Publix-230223&PromotionViewMode=1'
+        'https://accessibleweeklyad.publix.com/PublixAccessibility/Entry/LandingContent?storeid=2501005&sneakpeek=N&listingid=0'
     ]
 
+    listing = [
+        '.leftcolumn .listing::attr(href)',
+    ]
+    
+    def start_requests(self):
+        for url in self.start_urls:
+            yield scrapy.Request(url, callback=self.parse_recurse, cb_kwargs={"listing": self.listing})
 
+
+
+    def parse_recurse(self, response, listing):
+
+
+        first = listing[0]
+        rest  = listing[1:]
+        
+        links = response.css(first).extract()
+        
+        if rest:
+            for link in links:
+                yield response.follow(link, callback=self.parse_recurse, cb_kwargs={"listing": rest})
+        else:
+
+            for link in links:
+                yield response.follow(link, callback=self.parse)
 
 
   
@@ -37,23 +61,15 @@ class publixSpider(scrapy.Spider):
             yield items
 
 
-            
-        bogo_page = response.css('#CustomCategories a:nth-child(1)::attr(href)').get()
-
-        if bogo_page is not None: 
-            yield response.follow(bogo_page)  
+        
 
 
-##non functional
-        # postbogo_page = response.css('.footerLink::attr(href)').get()
+    ##legacy  
+        # bogo_page = response.css('.leftcolumn .listing::attr(href)').get()
 
-        # if postbogo_page is not None: 
-        #     yield response.follow(postbogo_page)  
+        # if bogo_page is not None: 
+        #     yield response.follow(bogo_page)  
 
-        # next_page = response.css('.exclude-role+ #CategoryFooterBar .action-tracking-nav::attr(href)').get()
-
-        # if next_page is not None: 
-        #     yield response.follow(next_page)  
 
 
 
