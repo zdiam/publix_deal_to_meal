@@ -1,11 +1,15 @@
 import scrapy
+
 from ..items import PublixscrapItem
+
 
 
 class publixSpider(scrapy.Spider):
     
     name = 'publix'
 
+
+ 
     start_urls = [
         'https://accessibleweeklyad.publix.com/PublixAccessibility/Entry/LandingContent?storeid=2501005&sneakpeek=N&listingid=0'
     ]
@@ -13,7 +17,9 @@ class publixSpider(scrapy.Spider):
     listing = [
         '.leftcolumn .listing::attr(href)',
     ]
-    
+
+
+
     def start_requests(self):
         for url in self.start_urls:
             yield scrapy.Request(url, callback=self.parse_recurse, cb_kwargs={"listing": self.listing})
@@ -37,6 +43,8 @@ class publixSpider(scrapy.Spider):
                 yield response.follow(link, callback=self.parse)
 
 
+
+
   
     def parse(self, response, dont_filter = True):
 
@@ -54,21 +62,23 @@ class publixSpider(scrapy.Spider):
             food = publix.css('.title .ellipsis_text::text').extract()
             dealType = publix.css('.deal .ellipsis_text::text').extract()
 
+            
+            
+            items['link'] = response.request.url
+
+
+ 
+
             items['food'] = food
             items['dealType'] = dealType
+
+           
+
         
 
             yield items
 
 
-        
-
-
-    ##legacy  
-        # bogo_page = response.css('.leftcolumn .listing::attr(href)').get()
-
-        # if bogo_page is not None: 
-        #     yield response.follow(bogo_page)  
 
 
 
