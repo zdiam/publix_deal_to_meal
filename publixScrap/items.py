@@ -9,4 +9,5 @@ import scrapy
 class PublixscrapItem(scrapy.Item):
     food = scrapy.Field()
     dealType = scrapy.Field()
+    link = scrapy.Field()
     pass
