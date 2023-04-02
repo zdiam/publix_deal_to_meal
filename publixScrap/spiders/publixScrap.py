@@ -1,7 +1,9 @@
 import scrapy
+from scrapy.crawler import CrawlerProcess
+from items import PublixscrapItem
+# from scrapy.utils.project import get_project_settings
 
-from ..items import PublixscrapItem
-
+# process = CrawlerProcess(get_project_settings)
 
 
 class publixSpider(scrapy.Spider):
@@ -78,7 +80,14 @@ class publixSpider(scrapy.Spider):
 
             yield items
 
+process = CrawlerProcess(settings={
+    "FEEDS": {
+        "items2.csv": {"format": "csv"},
+    },
+})
 
+process.crawl(publixSpider)
+process.start()
 
 
 
