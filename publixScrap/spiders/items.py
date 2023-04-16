@@ -11,3 +11,10 @@ class PublixscrapItem(scrapy.Item):
     dealType = scrapy.Field()
     link = scrapy.Field()
     pass
+
+
+class PublixscrapType(scrapy.Item):
+    url = scrapy.Field()
+    dealT = scrapy.Field()
+
+    pass
