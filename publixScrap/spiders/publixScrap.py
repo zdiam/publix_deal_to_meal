@@ -1,9 +1,9 @@
 import scrapy
 from scrapy.crawler import CrawlerProcess
 from items import PublixscrapItem
-# from scrapy.utils.project import get_project_settings
+from items import PublixscrapType
 
-# process = CrawlerProcess(get_project_settings)
+
 
 
 class publixSpider(scrapy.Spider):
@@ -19,7 +19,6 @@ class publixSpider(scrapy.Spider):
     listing = [
         '.leftcolumn .listing::attr(href)',
     ]
-
 
 
     def start_requests(self):
@@ -46,11 +45,10 @@ class publixSpider(scrapy.Spider):
 
 
 
-
   
     def parse(self, response, dont_filter = True):
 
-        
+ 
 
 
         allItems = response.css('.theTile')
@@ -63,10 +61,13 @@ class publixSpider(scrapy.Spider):
 
             food = publix.css('.title .ellipsis_text::text').extract()
             dealType = publix.css('.deal .ellipsis_text::text').extract()
+            
+
 
             
             
             items['link'] = response.request.url
+            
 
 
  
@@ -80,15 +81,52 @@ class publixSpider(scrapy.Spider):
 
             yield items
 
+
+class publixUrl(scrapy.Spider):
+    
+    name = 'publixUrl'
+
+    start_urls = [
+         'https://accessibleweeklyad.publix.com/PublixAccessibility/Entry/LandingContent?storeid=2501005&sneakpeek=N&listingid=0'
+    ]
+
+
+
+
+    def parse(self, response, dont_filter = True):
+
+        allItems = response.css('.leftcolumn .listing')
+        items = PublixscrapType()
+
+        for publix in allItems:
+        
+  
+
+
+            url = publix.css('::attr(href)').extract()
+
+            dealT = publix.css('*::text')
+
+            items['url'] = url
+
+            items['dealT'] = dealT
+
+            yield items
+
+
+
+
 process = CrawlerProcess(settings={
     "FEEDS": {
-        "items2.csv": {"format": "csv"},
+        "items7.csv": {"format": "csv"},
     },
 })
 
-process.crawl(publixSpider)
-process.start()
 
+
+# process.crawl(publixSpider)
+process.crawl(publixUrl)
+process.start()
 
 
 
