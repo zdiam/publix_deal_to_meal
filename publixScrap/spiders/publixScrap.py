@@ -105,7 +105,7 @@ class publixUrl(scrapy.Spider):
 
             url = publix.css('::attr(href)').extract()
 
-            dealT = publix.css('*::text')
+            dealT = publix.css('*::text').extract()
 
             items['url'] = url
 
@@ -114,19 +114,31 @@ class publixUrl(scrapy.Spider):
             yield items
 
 
-
-
-process = CrawlerProcess(settings={
+processA = CrawlerProcess(settings={
     "FEEDS": {
-        "items7.csv": {"format": "csv"},
+        "itemsA.csv": {
+        "format": "csv",
+        "overwrite": True
+        },
+        
+    },
+})
+
+processB = CrawlerProcess(settings={
+    "FEEDS": {
+        "itemsB.csv": {
+        "format": "csv",
+        "overwrite": True},
+        
     },
 })
 
 
 
-# process.crawl(publixSpider)
-process.crawl(publixUrl)
-process.start()
+processA.crawl(publixSpider)
+processB.crawl(publixUrl)
+processA.start()
+processB.start()
 
 
 
