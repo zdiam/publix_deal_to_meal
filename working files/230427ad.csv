@@ -1,0 +1,628 @@
+dealT,url
+"
+                BOGO
+            ",/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+"
+                Baby
+            ",/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232519
+"
+                Bakery
+            ",/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232520
+"
+                Beauty & Personal Care
+            ",/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+"
+                Beer & Wine
+            ",/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232521
+"
+                Coupons
+            ",/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232539
+"
+                Dairy
+            ",/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232525
+"
+                Deli
+            ",/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232526
+"
+                Floral
+            ",/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232527
+"
+                Frozen Food
+            ",/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+"
+                Grocery
+            ",/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+"
+                Health & Nutrition
+            ",/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232789
+"
+                Housewares
+            ",/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232531
+"
+                Liquor
+            ",/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+"
+                Meat
+            ",/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+"
+                Non-Foods
+            ",/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+"
+                Pet
+            ",/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232535
+"
+                Produce
+            ",/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+"
+                Seafood
+            ",/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232538
+"
+                New
+            ",/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232546
+dealT,url
+[<Selector xpath='descendant-or-self::text()' data='\r\n                BOGO\r\n            '>],/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+[<Selector xpath='descendant-or-self::text()' data='\r\n                Baby\r\n            '>],/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232519
+[<Selector xpath='descendant-or-self::text()' data='\r\n                Bakery\r\n            '>],/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232520
+[<Selector xpath='descendant-or-self::text()' data='\r\n                Beauty & Personal C...'>],/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+[<Selector xpath='descendant-or-self::text()' data='\r\n                Beer & Wine\r\n      ...'>],/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232521
+[<Selector xpath='descendant-or-self::text()' data='\r\n                Coupons\r\n            '>],/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232539
+[<Selector xpath='descendant-or-self::text()' data='\r\n                Dairy\r\n            '>],/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232525
+[<Selector xpath='descendant-or-self::text()' data='\r\n                Deli\r\n            '>],/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232526
+[<Selector xpath='descendant-or-self::text()' data='\r\n                Frozen Food\r\n      ...'>],/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+[<Selector xpath='descendant-or-self::text()' data='\r\n                Grocery\r\n            '>],/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+[<Selector xpath='descendant-or-self::text()' data='\r\n                Health & Nutrition\r...'>],/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232789
+[<Selector xpath='descendant-or-self::text()' data='\r\n                Housewares\r\n       ...'>],/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232531
+[<Selector xpath='descendant-or-self::text()' data='\r\n                Liquor\r\n            '>],/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+[<Selector xpath='descendant-or-self::text()' data='\r\n                Meat\r\n            '>],/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+[<Selector xpath='descendant-or-self::text()' data='\r\n                Non-Foods\r\n        ...'>],/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+[<Selector xpath='descendant-or-self::text()' data='\r\n                Pet\r\n            '>],/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232535
+[<Selector xpath='descendant-or-self::text()' data='\r\n                Produce\r\n            '>],/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+[<Selector xpath='descendant-or-self::text()' data='\r\n                Seafood\r\n            '>],/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232538
+[<Selector xpath='descendant-or-self::text()' data='\r\n                New\r\n            '>],/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232546
+dealType,food,link
+$3 OFF WITH MFR DIGITAL COUPON,Any 1 Degree Unlimited Antiperspirant Deodorant or Dry Spray,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232546
+2 FOR $9,Jonny Pops,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232546
+$8.99,Method Deodorant,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232546
+2 FOR $7,Highkey Cookies or Crackers,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232546
+$2.99,Popchips,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232546
+5 FOR $5,A-Game Hydration Drink,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232546
+$2 OFF WITH MFR DIGITAL COUPON,Any 1 Poise or Depend Overnight Protection,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232546
+43.99,Deleón Blanco Tequila,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232546
+$4 OFF,"Any 2: Aleve or Aleve PM 80–270-ct., AleveX 2.5–3-oz, Bayer 200–300-ct. or Midol 40-ct.",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232789
+$5 OFF,"Any 1 Allegra 12–70-ct., Allegra Kids 4-oz or 12-ct., Xyzal 35–80-ct. or Nasacort .37–.57-oz",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232789
+$10.79,Breathe Right,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232789
+5.00 Off,Claritin-D Allergy & Congestion Tablets,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232789
+$13.49,Flonase,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232789
+$4 OFF,"Any 2: One A Day Vitamins 30–200-ct., Flintstones Vitamins 60–180-ct. or Citracal 70–200-ct.",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232789
+28.99,Dymatize ISO 100 Protein Powder,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232789
+$2.50 OFF,Any 2: Polident 40–84-ct. or Poligrip 2.2–2.4-oz,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232789
+$4 OFF WITH MFR DIGITAL COUPON,Any 1 Prevacid,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232789
+$2 OFF WITH MFR DIGITAL COUPON,Any 1 Prilosec OTC,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232789
+4.00 Off,Zyrtec Allergy Tablets,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232789
+Buy 3 Get 3.00 Off,Febreze Air or Fabric Refresher,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232531
+3/9.00,Whiskas Temptations Treats for Cats,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232535
+Buy 1 Get 1 FREE*,Healthy Hide Good 'n' Fun Dog Treats,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232535
+Buy 1 Get 1 FREE*,Purina Tidy Cats Cat Litter,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232535
+7.99 lb,White Shrimp,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232538
+11.99 lb,Peeled & Deveined White Shrimp,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232538
+8.99 lb,Catfish Fillets,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232538
+12.99 lb,Salmon Fillets,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232538
+5.99,Salmon Select Cuts,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232538
+5.99,Lobster Tails,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232538
+5.99,Publix Premium Alaskan Panko Pollock Fillets,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232538
+9.99 lb,GreenWise Patagonian Scallops†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232538
+3/10.00,Crunch Pak Apple Slices,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+2 for 7.00,Fresh Express Caesar Chopped Salad Kit,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+4.99,Indian River Select 100% Orange Juice,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+1.69 lb,Navel Oranges,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+3 for 10.00,Blackberries†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+2.99,Brussels Sprouts†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+1.89,Organic Basil†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+5 for 1.99,Corn,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+2.99,Broccoli,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+2 for 4.00,Bagged Green Beans†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+4 for 5.00,Hass Avocados†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+2/4.00,Grape Tomatoes,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+2.99 lb,Red Seedless Grapes,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+9.99,Boar's Head® Double Play,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232526
+7.99 each,Boar's Head® Italian Whole Sub,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232526
+1.00 Off,on a Sub Combo Featuring a Coca-Cola Fountain Drink,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232526
+9.49 lb,Fried Wisconsin Cheese Curds,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232526
+3.99 lb,Cotton Candy Grapes,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+4.99,Organic Mandarins,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+3 for 10.00,Red Raspberries†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+3.99,Tri-Color Peppers,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+2.99,Zucchini or Yellow Squash†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+1.49 lb,Vine-Ripened Tomatoes†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+.49 lb,Green Cabbage,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+1.99 lb,Cosmic Crisp Apples,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+2 for 6.00,Pero Family Farms Snipped Green Beans†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+2.99,Publix Yellow Onions,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+3.49,Publix Red Potatoes,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+4.49,GreenWise Organic Orange Juice,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+2.99,River Gold Red or Gold Potatoes,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+6.49 lb,Fried Pickle Chips,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232526
+2 for 10.00,Pretzilla Soft Pretzel Bites,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232526
+7.99 lb,Publix Deli Baked Chicken Tenders†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232526
+7.99 each,Publix Deli 3-Piece Chicken Tender Meal†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232526
+$1 OFF,Any 1 Publix Deli Whole/Half Sub or Wrap Combo,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232526
+4.99 each,Publix Deli Nashville Hot Chicken Sandwich,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232526
+6.49,Publix Deli Chicken Caesar Salad,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232526
+Buy 2 Get 1 Free,Snack Factory Pretzel Crisps†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232526
+4.29,Publix Deli Chicken Breast Salad,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232526
+Buy 1 Get 1 FREE*,BelGioioso Grated Parmesan Cheese,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232526
+Buy 1 Get 1 FREE*,Lantana Hummus,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232526
+Buy 1 Get 1 FREE*,TOOM Garlic Dip†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232526
+6.99,Wonderful No Shells Pistachios,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+Buy 1 Get 1 FREE*,Publix Red Seedless Watermelon Chunks,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+Buy 1 Get 1 FREE*,Sunset Angel Sweet Tomato,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232537
+2 FOR $10,Greenfield Natural Meat Co. Fully Cooked Bacon,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+$1 OFF,Any 1 Atkins Entrée,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+$3.99,Ben & Jerry's Doggie Desserts,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+48.99,Bib & Tucker 6 Year Small Batch Bourbon,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+2 for 6.00,Blue Diamond Almond Breeze Almondmilk,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232525
+10 for 10.00,Breakstone's Cottage Doubles,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232525
+25% OFF,"Cacique Queso Dip, Ranchero Queso Fresco, Crema Mexican-Style or Sour Cream",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232525
+10 for 10.00,Chobani Greek Yogurt,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232525
+$7.99,Greenfield Natural Meat Co. Bacon,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+$2.50 OFF,Any 2 Johnsonville Ground Sausage,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+5.99,Lloyd's Pig Beach BBQ Pulled Pork,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+12.19 lb,New York Strip Steak - Thin-Sliced,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+11.99 lb,New York Strip Steak†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+9.99,Ground Beef,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+10.99 lb,Publix Aprons Stuffed Flank Steak,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+10.99 lb,Publix Aprons Stuffed Flank Steak†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+13.99 lb,GreenWise Angus Ribeye Steak†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+14.19 lb,GreenWise Angus Ribeye Steak - Thinly-Sliced,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+5.49,Publix Southwestern-Style Sausage,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+6.49,Blue Bell Ice Cream,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+$1 OFF,"Any 1 Caulipower Pizza 10.9-oz, Crusts 2-pk. 11-oz or Chicken Tenders 14-oz",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+10 for 10.00,Häagen-Dazs Ice Cream,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+2 FOR $9,Jonny Pops,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+2 FOR $8,Lactaid Ice Cream,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+$10.99,Michael Angelo's 44–46-oz or Rao's 24–27-oz Entrée,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+7.99,Michael Angelo's Family Size Entrée,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+2 for 8.00,Michael Angelo's Entrées,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+$1 OFF WITH MFR DIGITAL COUPON,Any 1 Veggies Made Great Product,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+2/10.00,Palermo's Primo Thin Pizza,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+2 for 5.00,Pillsbury Toaster Strudel Pastries,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+2/5.00,"Publix Frozen Garlic Bread, Breadsticks, or Knots; or Texas or 3 Cheese Toast",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+19.99,Black Box Cabernet Sauvignon Wine,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+Buy 2 Get 8.00 Off,Blue Chair Bay Rum,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+Buy 2 Get 10.00 Off,Blue Ice Vodka,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+Buy 2 Get 10.00 Off,Bombay Sapphire Gin,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+Buy 2 Get 6.00 Off,Canadian Mist,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+Buy 2 Get 6.00 Off,Captain Morgan Rum,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+Buy 2 Get 6.00 Off,Chopin Vodka,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+Buy 2 Get 10.00 Off,Deep Eddy Vodka,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+Buy 2 Get 10.00 Off,Dewar's White Label Scotch,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+Buy 2 Get 7.00 Off,Espolón Tequila or Grand Marnier,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+Buy 2 Get 8.00 Off,Ezra Brooks 99 Proof Bourbon,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+12.99,4-Pack Jack Daniel's & Coca-Cola,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+10 for 10.00,Dannon Light + Fit Greek Yogurt,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232525
+4 FOR $5,Fage Yogurt,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232525
+2/7.00,International Delight or Dunkin' Coffee Creamer,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232525
+2 for 8.00,Lactaid Milk,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232525
+4.99,Promised Land Milk†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232525
+2 for 5.00,Publix Cheese Slices,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232525
+2 FOR $5,"Silk Almondmilk, Soymilk or So Delicious Organic Coconutmilk",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232525
+2/9.00,"Sweet Loren's Cookie Dough, Gluten Free, Dairy Free",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232525
+2/6.00,Truly Grass-Fed Natural Creamy Butter,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232525
+2 FOR $9,Two Good Greek Yogurt,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232525
+Buy 1 Get 1 Free,BHU Foods Refrigerated Protein Bar,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232525
+Buy 1 Get 1 Free,Country Crock Spread,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232525
+3.99 lb,Publix Assorted Pork Loin Chops,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+5.49 lb,Sirloin Tip Roast,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+5.99 lb,Eye Round Roast,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+14.99,Publix Aprons Bacon Cheddar Chicken Meal Kit,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+15.99,Publix Aprons Chicken and Zucchini Puttanesca Pasta,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+7.99 lb,GreenWise Organic Chicken Tenders,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+5.99 lb,GreenWise Organic Boneless Skinless Chicken Thighs,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+8.49 lb,GreenWise Pork Loin Back Ribs,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+6.49 lb,GreenWise Lamb Shoulder Blade Chops,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+3.99 lb,Ground Round,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+6.69 lb,GreenWise Lamb Round Bone Shoulder Chops,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+5.49 lb,Ground Round Burgers or Slider Burgers,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+3.99 lb,Springer Mountain Farms Boneless Chicken Breasts†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+2/5.00,GreenWise Frozen Organic Vegetables,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+$4.99,Talenti Bars,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+2 for 9.00,Tombstone Pizza,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+Buy 1 Get 1 FREE*,Armour Meatballs,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+Buy 1 Get 1 FREE*,Banquet Brown'N Serve Sausage,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+Buy 1 Get 1 FREE*,Bob Evans Breakfast Sandwiches,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+Buy 1 Get 1 FREE*,Boston Market Home Style Meals,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+Buy 1 Get 1 Free,Halo Top Light or Keto Ice Cream or Pops or Bars,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+Buy 1 Get 1 FREE*,Klondike Cones,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+Buy 1 Get 1 FREE*,Bibigo Wontons,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+Buy 1 Get 1 Free,Cheesecake Factory Ice Cream Bars,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+Buy 1 Get 1 FREE*,Frutero Ice Cream,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+3.99,"Publix Bakery Cookie Bites, 14-Count",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232520
+5.99,Publix Bakery Brioche Loaf,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232520
+3.99,"Publix Bakery Coffee Cakes, 2-Count",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232520
+5.99,Publix Bakery Carrot Bar Cake,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232520
+3.49,Publix Bakery Two Dozen Cookies,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232520
+22.99,Jameson Irish Whiskey,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+Buy 2 Get 10.00 Off,Jefferson's Very Small Batch Bourbon,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+Buy 2 Get 10.00 Off,Jose Cuervo Especial Tequila,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+9.49,6-Pack Lagunitas Beer,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+21.99,Luksusowa Potato Vodka,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+19.99,Luxus Vodka,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+25.99,24-Pack Michelob Ultra Beer,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+16.49,12-Pack Modelo Especial or Corona Extra Beer,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+Buy 2 Get 10.00 Off,Ocean Organic Vodka,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+Buy 2 Get 6.00 Off,Ole Smoky Whiskey or Moonshine,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+26.99,ST. Augustine Vodka,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+10 for 10.00,Beech-Nut Organics Baby Food,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232519
+25% OFF,Burt's Bees Skincare or Baby Items,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232519
+2/4.00,Huggies Wipes,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232519
+9.29,Huggies Diapers,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232519
+Buy 1 Get 1 FREE*,Galbani Mozzarella Chunk Cheese†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232525
+Buy 1 Get 1 FREE*,Icelandic Provisions Skyr Yogurt,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232525
+Buy 1 Get 1 FREE*,Lender's Bagels†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232525
+Buy 1 Get 1 FREE*,Sargento Shredded Cheese,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232525
+Buy 1 Get 1 FREE*,Stonyfield Organic Yogurt,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232525
+3.49 lb,Springer Mountain Farms Boneless Chicken Thighs,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+Buy 1 Get 1 FREE*,Eckrich Smoked Sausage,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+Buy 1 Get 1 FREE*,Impossible Burger,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+Buy 1 Get 1 FREE*,Jimmy Dean Bacon,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+Buy 1 Get 1 Free,Kevin's Side Dishes,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+Buy 1 Get 1 FREE*,Prairie Fresh Pork Tenderloin†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232533
+Buy 2 Get 2 FREE,12-Pack 7UP Products,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Outshine Fruit Bars,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+Buy 1 Get 1 FREE*,White Castle Cheeseburgers,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232528
+$2 OFF,Any 1 Hellmann's Mayonnaise,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232539
+$2 OFF,Any 1 Chosen Foods Avocado Oil,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232539
+$1 OFF,Any 1 Publix Deli Whole/Half Sub or Wrap Combo,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232539
+$1 OFF,Any 2 Quaker Grits,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232539
+$1 OFF,Any 1 Atkins Entrée,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232539
+$1 OFF,"Any 1 Caulipower Pizza 10.9-oz, Crusts 2-pk. 11-oz or Chicken Tenders 14-oz",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232539
+$4 OFF,"Any 2: One A Day Vitamins 30–200-ct., Flintstones Vitamins 60–180-ct. or Citracal 70–200-ct.",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232539
+3.99,Publix Bakery Tutto Pugliese Bread,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232520
+4.49,Publix Bakery Tutto Cheese Medley Bread,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232520
+4.49,Publix Bakery Tutto Onion Asiago Bread,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232520
+5.49,GreenWise Mini Muffins,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232520
+3.99,Publix Bakery Mini Assorted Pastries,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232520
+8.99,Publix Bakery Cauliflower Pizza Crust†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232520
+19.99,Publix Bakery Strawberry Elegance Cake,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232520
+13.99,Frïs Vodka,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+Buy 2 Get 6.00 Off,Early Times Kentucky Whisky,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+46.79,Michter's US 1 Straight Rye Whiskey,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+43.99,Deleón Blanco Tequila,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+21.99,Rum Haven Coconut Rum,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+Buy 2 Get 10.00 Off,SelvaRey Coconut Rum,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+31.49,Reyka Vodka,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+8.99,Robert Mondavi Private Selection Wine,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+Buy 2 Get 6.00 Off,Seagram's Vodka,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+Buy 2 Get 10.00 Off,The Kraken Black Spiced Rum,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+,FREE Tres Agaves Organic Margarita Mix WITH EACH PURCHASE OF THE Tres Agaves Organic Tequila,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+Buy 1 Get 1 FREE*,12-Pack Michelob Ultra Organic Seltzer,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232532
+Buy 2 Get 1.00 Off,Ajax Dish Liquid,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+Buy 2 Get 1 FREE,Aquafina Pure Water,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 FOR $5,Aquafina Water,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+$1 OFF WITH MFR DIGITAL COUPON,Any 1 Arnold Whole Grains Bread,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+$1 OFF WITH MFR DIGITAL COUPON,Any 1 Arnold Keto Bread,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 FOR $7,Bahlsen Cookies or Wafers,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 for 5.00,Ball Park Brand Buns,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 for 5.00,Ben's Original Ready Rice,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+$1 OFF WITH MFR DIGITAL COUPON,Bush's Best Zero Sugar Added Baked Beans,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+10 for 10.00,Bush's Best Beans,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 for 7.00,Cape Cod Kettle Cooked Potato Chips,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+$2 OFF WITH MFR DIGITAL COUPON,Chameleon Organic Cold-Brew Concentrate Espresso Coffee,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 for 7.00,Cheetos Snacks,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+$4 OFF,"Any 2: Aleve or Aleve PM 80–270-ct., AleveX 2.5–3-oz, Bayer 200–300-ct. or Midol 40-ct.",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232539
+$2.50 OFF,Any 2 Johnsonville Ground Sausage,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232539
+$2 OFF,Any 1 Tresemmé Product,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232539
+$2 OFF,Any 1 Lubriderm Lotion,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232539
+$2.50 OFF,Any 2: Polident 40–84-ct. or Poligrip 2.2–2.4-oz,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232539
+$2 OFF,Any 1 Listerine Mouthwash,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232539
+$3 OFF,Any 1 Tena Pads or Men's Guards,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232539
+$5 OFF,"Any 1 Allegra 12–70-ct., Allegra Kids 4-oz or 12-ct., Xyzal 35–80-ct. or Nasacort .37–.57-oz",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232539
+,Buy Any 2 Scott 1000 Bath Tissue 4-pk. or Paper Towels Double Roll 6-pk. and Get 1 FREE,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232539
+19.99,Black Box Cabernet Sauvignon Wine,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232521
+2/9.00,Black Box Wine,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232521
+12.99,Korbel Brut Sparkling Wine,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232521
+9.49,6-Pack Lagunitas Beer,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232521
+25.99,24-Pack Michelob Ultra Beer,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232521
+16.49,12-Pack Modelo Especial or Corona Extra Beer,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232521
+9.99,Noble Vines 337 Cabernet Sauvignon Wine,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232521
+2 for 11.00,Angel Soft Bathroom Tissue,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+27.69,"Bounty Paper Towels, Double Plus Rolls or Triple Rolls",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+12.49,Bounty Paper Towels,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+2 for 12.00,Brawny Paper Towels,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+2/5.00,Brillo Pads,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+14.99,Charmin Bathroom Tissue,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+5.49,"Charmin Bathroom Tissue, Mega Rolls",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+2 for 9.00,Clorox Bleach,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+10.99,"Downy or Gain Fabric Softener, Sheets or Scent Booster",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+2.00 Off,Duracell Batteries,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$3 OFF WITH MFR DIGITAL COUPON,"Any 1 9 Elements Laundry Detergent 65-oz, Purifying Softener 67-oz or Dish Spray 16-oz",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+7.99,Fabuloso Multi-Purpose Cleaner,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$8.99,Alba Botanica Sunscreen,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+$3 OFF WITH MFR DIGITAL COUPON,Any 1 Always Discreet Pads 28–66-ct. or Underwear 12–32-ct.,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+$2 OFF,Any 1 Chosen Foods Avocado Oil,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+10 for 10.00,Coca-Cola Products,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 2 Get 1 Free,6-Pack Coca-Cola Soft Drink Products,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 2 Get 1 Free,12-Pack Coca-Cola Products,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+$4.99,Crofter's Organic Premium Spread,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+10 for 10.00,Del Monte Tomatoes,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+$6.99,Duke's Mayonnaise,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 FOR $9,Enjoy Life Breakfast Ovals,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 FOR $9,Enjoy Life Chewy Bars,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+$10.99,Frito-Lay Multipack Chips,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 FOR $7,Frito-Lay Baked Chips,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 FOR $3,Gold Peak Tea 18.5-oz or Smartwater 700-mL,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+$2 OFF,Any 1 Hellmann's Mayonnaise,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+4 FOR $3,Jumex Nectar Drink,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+8.99,Robert Mondavi Private Selection Wine,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232521
+12.99,Robert Mondavi Barrel Aged Wine,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232521
+16.99,12-Pack Samuel Adams Beer,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232521
+16.49,12-Pack Stella Artois Premium Lager,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232521
+Buy 1 Get 1 FREE*,Art of the Cooper Cabernet Sauvignon Wine,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232521
+Buy 1 Get 1 Free,"12-Pack Bud Light Next, Peels Lime, Peels Variety, or Platinum Beer",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232521
+Buy 1 Get 1 FREE*,12-Pack Michelob Ultra Organic Seltzer,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232521
+Buy 1 Get 1 FREE*,Trivento Malbec Reserve Wine,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232521
+12.99,Kingsford Charcoal Briquets,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$5.29,Method Wood Floor or Daily Wood Cleaner,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$10.99,FOLDING SIDE TABLE,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$59.99,CANOPY SPORTS CHAIR,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$21.99,SHOULDER STRAP BEACH CHAIR,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$27.99,SEVEN-POSITION BEACH CHAIR,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$19.99,TWO-POSITION BEACH CHAIR,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$14.99,FOLDING QUAD CHAIR,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$17.99,6 FT LARGE BEACH UMBRELLA,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$42.99,WICKER LOUNGER,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$24.99,WICKER SIDE TABLE,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$25.99,ADIRONDACK CHAIR,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$7.99,16 IN CALYPSO SIDE TABLE,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+7.49 each,"Clairol Nice 'N Easy Haircolor, Root Touch-Up, or Frost & Tip Blonde Highlights;",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+2 for 8.00,Colgate Total Toothpaste,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+2 for 8.00,Crest 3D White Toothpaste,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+1.00 Off,Crest ProHealth Mouthwash or Rinse,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+$3 OFF WITH MFR DIGITAL COUPON,Any 1 Degree Unlimited Antiperspirant Deodorant or Dry Spray,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+Sale Price $4.99,Degree Advanced or UltraClear Antiperspirant or Deodorant,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+2 for 7.00,Dial Body Wash,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+2/5.00,Dial Bar Soap,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+2/10.00,Dial Liquid Hand Soap Refill,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+2 for 5.00,Dial Liquid Hand Soap,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+$2 OFF,Any 1 Listerine Mouthwash,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+$2 OFF,Any 1 Lubriderm Lotion,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+$9.99,Justin's Almond Butter,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+$1 OFF WITH MFR DIGITAL COUPON,Any 4 Knorr Sides,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 for 4.00,Kodiak Flapjack Power Cup,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+$4.49,Kraft Mayo or Miracle Whip,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+WITH MFR DIGITAL COUPON,Buy Any 2 La Banderita Flour Tortillas 11.3–50.8-oz and Get Any 1 Jarritos Soda 12.5-oz FREE,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+$1.99,La Preferida Refried Beans,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+10 for 10.00,Lärabar The Original Fruit & Nut Food Bar,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+4 FOR $5,Lifewtr,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+$1.09,Lipton Recipe Secrets Mix,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+$3.99,Mateo's Gourmet Salsa,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+3 FOR $5,Minute Ready to Serve Rice,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Sale Price 2/$7,Muscle Milk Non-Dairy Protein Shake,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+10 for 10.00,Nabisco Go-Paks! Mini Cookies,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+$119.99,ACACIA WOOD ROCKING CHAIR,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$149.99,ACACIA WOOD BISTRO SET,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$49.99,9 FT ALUMINUM MARKET UMBRELLA,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$29.99,RESIN CONCRETE UMBRELLA BASE,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$29.99,14 IN ROUND PORTABLE CHARCOAL GRILL,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$69.99,22 IN UPRIGHT KETTLE CHARCOAL GRILL,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$59.99,16 IN ELECTRIC TABLE GRILLL,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$119.99,ALL-TERRAIN WAGON,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$5 OFF WITH MFR DIGITAL COUPON,When You Spend $30 on P&G Products,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+2 for 10.00,Publix LED Light Bulbs,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+2 for 3.00,Publix Latex Gloves,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+FREE WITH MFR DIGITAL COUPON,FREE Publix Reusable Bag (up to $2.99) When You Spend $15 on Participating General Mills Products:,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+,Buy Any 2 Scott 1000 Bath Tissue 4-pk. or Paper Towels Double Roll 6-pk. and Get 1 FREE,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$8.99,Method Deodorant,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+$9.99,Method Body Wash,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+2 FOR $7,Method Hand Wash,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+$9.99,Method 2-IN-1 Shampoo/Conditioner,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+$6.99,Method Body Wash,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+2 FOR $7,Mitchum Antiperspirant & Deodorant,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+$5 OFF WITH MFR DIGITAL COUPON,Any 1 Nexxus Hair Care,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+Buy 2 Get 4.00 Off,OGX Products,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+$2 OFF WITH MFR DIGITAL COUPON,Any 2: Old Spice or Gillette Deodorant,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+$2 OFF WITH MFR DIGITAL COUPON,Any 1 Poise or Depend Overnight Protection,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+$2 OFF,Schmidt's Natural Deodorant,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+$2 OFF WITH MFR DIGITAL COUPON,Any 2: Secret or Ivory Antiperspirant or Deodorant,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+$5.99,"Simple Wipes 25-ct., Micellar Water 6.7-oz or Cleanser 5-oz",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+7.99,L. Organic or Tampax Tampons,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+2 for 6.00,Nabisco Triscuit Crackers,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 FOR $4,Ortega Taco Shells 4.9-oz or Sauce 8-oz,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 FOR $5,Gatorlyte Rapid Rehydration,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+$2.99,Popchips,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+5 FOR $5,A-Game Hydration Drink,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 FOR $7,4505 Chicharrones,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 FOR $7,Highkey Cookies or Crackers,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+10 for 10.00,Nissin Chow Mein Noodles,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 FOR $5,Stur Liquid Water Enhancer,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 FOR $3,Gimme Organic Roasted Seaweed Snacks,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+$1.50 OFF WITH MFR DIGITAL COUPON,Any 1 AQA Alkaline Water or Sparkling Ice,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 for 9.00,Bizzy Cold Brew Coffee†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 2 Get 1 Free,Scrubbing Bubbles Toilet Cleaning Gel,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+2 FOR $5,Sprayway Glass Cleaner,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+1.00 Off,Suavitel Fabric Conditioner,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+12.99,"Tide, Tide Pods, or Gain Flings Laundry Detergent",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$17.99,Viva Signature Cloth Triple Roll,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+2 for 11.00,Ziploc Freezer or Storage Bags,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+2 FOR $7,"Method Daily Shower, Antibac or All-Purpose Cleaner",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+2 FOR $7,Method Dish Soap,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$49.99,FOUR-POSITION BACKPACK CHAIR,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+Buy 1 Get 1 Free,Arm & Hammer In-Wash Booster or Fabric Softener Sheets,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+Buy 1 Get 1 FREE*,Arm & Hammer Laundry Detergent,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+Buy 1 Get 1 FREE*,"Hot Shot Ant, Roach & Spider Killer Spray",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+Buy 1 Get 1 FREE*,Lemi Shine Dish Detergent Booster,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+$3 OFF,Any 1 Tena Pads or Men's Guards,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+$2 OFF,Any 1 Tresemmé Product,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+Buy 1 Get 1 FREE*,Arm & Hammer Deodorant,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232530
+10 for 10.00,Peace Tea,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+$9.99,Peet's Coffee,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 for 7.00,Pepperidge Farm Cookies,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 2 Get 2 Free,Pepsi Products,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 FOR $2.49,Poppi Prebiotic Soda,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 for 10.00,GreenWise Organic Tuscan Pomodoro Sauce†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+$1 OFF,Any 2 Quaker Grits,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+$4.49,Rao's Pesto 6.7-oz or Pizza Sauce 13-oz,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+6.49,Rao's Homemade Sauce,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+3 for 7.50,Red Bull Energy Drink,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+$19.99,Red Bull,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+4 FOR $5,Rockstar Energy Drink,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 FOR $9,Siete Grain Free Tortilla or Cinnamon Chips 5-oz OR Taco Shells 12-ct.,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 Free,Libman Sponges,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232805
+2 FOR $7,Siete Grain Free Cookies 4.5-oz or Kettle Cooked Potato Chips 5.5-oz,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 FOR $7,Snyder's of Hanover Pretzels 10–12-oz or Gluten Free 7–8-oz,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 FOR $7,Snyder's of Hanover Pretzels,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+10 for 10.00,Sparkling Ice Water,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+$5.99,Spindrift Sparkling Water & Real Squeezed Fruit,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+7.99,Starbucks K-Cup Coffee,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 for 7.00,Tostitos or Doritos Tortilla Chips,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2/10.00,Tostitos Dip or Salsa con Queso,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 FOR $9,Traditional Medicinals Tea,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 FOR $5,Zephyrhills or Deer Park Brand Natural Spring Water,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+2 FOR $5,Pure Leaf Tea,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Annie's Macaroni & Cheese Shells,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 Free,Badia Vanilla Extract,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Badia Garlic Powder,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 Free,Betty Crocker Brownie Mix,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Betty Crocker Cookie Mix,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,BODYARMOR Sports Drink,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Botticelli Premium Pasta Sauce,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Buitoni Filled Pasta,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 Free,Cap'N Crunch Cereal Bars,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Cascadian Farm Organic Granola,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Cheez-It Baked Snack Crackers,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 Free,Chi-Chi's Salsa,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Community Coffee Ground Coffee,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 Free,Core Hydration Nutrient Enhanced Water,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Crystal Light Drink Mix,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Donut Shop K-Cup Coffee,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Emerald Cashews,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Epic Pork Rinds,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Frito Lay Party Size Snacks,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,General Mills Cheerios Cereal,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 Free,Good 2 Grow Juice or Organic Juicy Waters,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Hunt's Ketchup,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,International Delight Iced Coffee,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Juicy Juice 100% Apple Juice,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Keebler Fudge Stripes Cookies,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 Free,Kellogg's Pop-Tarts or Bites,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Kinder Bueno Mini Chocolate Bites,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Late July Organic Tortilla Chips,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 Free,Lemon Perfect Cold-Pressed Lemon Water,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Log Cabin Syrup,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Nabisco Ritz Toasted Chips,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Nature Valley Bars,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Nature's Own Butterbread,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Old El Paso Taco Shells,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Orville Redenbacher's Gourmet Popping Corn,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Vigo Yellow Rice†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 Free,Unreal Chocolate Snacks,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,6-Pack Pepsi Products,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Planters Peanuts,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Pompeian Imported Olive Oil,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Post Great Grains Cereal,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Publix Stuffed Queen Olives,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Quaker Cap'N Crunch Cereal,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Quaker Rice Crisps,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 Free,Rao's Homemade Pasta,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Sensible Portions Garden Veggie Chips,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Stubb's Bar-B-Q Sauce,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,The Silver Palate Pasta Sauce†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Thomas' English Muffins,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Twinings of London Tea,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Vlasic Pickles,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Waterloo Sparkling Water,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Wish-Bone Dressing,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232529
+Buy 1 Get 1 FREE*,Annie's Macaroni & Cheese Shells,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 Free,Arm & Hammer In-Wash Booster or Fabric Softener Sheets,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Arm & Hammer Laundry Detergent,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Arm & Hammer Deodorant,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Armour Meatballs,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Art of the Cooper Cabernet Sauvignon Wine,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 Free,Badia Vanilla Extract,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Badia Garlic Powder,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Banquet Brown'N Serve Sausage,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,BelGioioso Grated Parmesan Cheese,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Betty Crocker Cookie Mix,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 Free,Betty Crocker Brownie Mix,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 Free,BHU Foods Refrigerated Protein Bar,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Bob Evans Breakfast Sandwiches,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,BODYARMOR Sports Drink,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Boston Market Home Style Meals,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Botticelli Premium Pasta Sauce,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 Free,"12-Pack Bud Light Next, Peels Lime, Peels Variety, or Platinum Beer",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Buitoni Filled Pasta,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 Free,Cap'N Crunch Cereal Bars,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Cascadian Farm Organic Granola,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Cheez-It Baked Snack Crackers,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 Free,Chi-Chi's Salsa,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Community Coffee Ground Coffee,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 Free,Core Hydration Nutrient Enhanced Water,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 Free,Country Crock Spread,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Crystal Light Drink Mix,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Donut Shop K-Cup Coffee,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Eckrich Smoked Sausage,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Emerald Cashews,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Epic Pork Rinds,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Frito Lay Party Size Snacks,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Galbani Mozzarella Chunk Cheese†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,General Mills Cheerios Cereal,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 Free,Good 2 Grow Juice or Organic Juicy Waters,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 Free,Halo Top Light or Keto Ice Cream or Pops or Bars,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Healthy Hide Good 'n' Fun Dog Treats,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,"Hot Shot Ant, Roach & Spider Killer Spray",https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Hunt's Ketchup,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Icelandic Provisions Skyr Yogurt,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Impossible Burger,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,International Delight Iced Coffee,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Jimmy Dean Bacon,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Juicy Juice 100% Apple Juice,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Keebler Fudge Stripes Cookies,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 Free,Kellogg's Pop-Tarts or Bites,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 Free,Kevin's Side Dishes,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Kinder Bueno Mini Chocolate Bites,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Klondike Cones,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Late July Organic Tortilla Chips,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Lemi Shine Dish Detergent Booster,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 Free,Lemon Perfect Cold-Pressed Lemon Water,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Lender's Bagels†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 Free,Libman Sponges,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Log Cabin Syrup,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,12-Pack Michelob Ultra Organic Seltzer,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,12-Pack Michelob Ultra Organic Seltzer,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Nabisco Ritz Toasted Chips,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Nature Valley Bars,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Nature's Own Butterbread,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Old El Paso Taco Shells,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Orville Redenbacher's Gourmet Popping Corn,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Vigo Yellow Rice†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 Free,Cheesecake Factory Ice Cream Bars,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Bibigo Wontons,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Frutero Ice Cream,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 Free,Unreal Chocolate Snacks,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Outshine Fruit Bars,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,6-Pack Pepsi Products,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Planters Peanuts,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Pompeian Imported Olive Oil,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Post Great Grains Cereal,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Prairie Fresh Pork Tenderloin†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Lantana Hummus,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Publix Red Seedless Watermelon Chunks,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,TOOM Garlic Dip†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Publix Stuffed Queen Olives,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Purina Tidy Cats Cat Litter,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Quaker Cap'N Crunch Cereal,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Quaker Rice Crisps,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 Free,Rao's Homemade Pasta,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Sargento Shredded Cheese,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Sensible Portions Garden Veggie Chips,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Stonyfield Organic Yogurt,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Stubb's Bar-B-Q Sauce,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Sunset Angel Sweet Tomato,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,The Silver Palate Pasta Sauce†,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Thomas' English Muffins,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Trivento Malbec Reserve Wine,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Twinings of London Tea,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Vlasic Pickles,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Waterloo Sparkling Water,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,White Castle Cheeseburgers,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
+Buy 1 Get 1 FREE*,Wish-Bone Dressing,https://accessibleweeklyad.publix.com/PublixAccessibility/BrowseByListing/ByCategory/?ListingSort=8&StoreID=2501005&CategoryID=5232540
